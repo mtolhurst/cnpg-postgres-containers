@@ -1,5 +1,10 @@
 # PostgreSQL container images extender
 
+> ⚠️ **UNMAINTAINED** - This repository is no longer actively maintained. Please use:
+> - [CloudNative PG extension container images](https://cloudnative-pg.io/docs/1.30/imagevolume_extensions) (see [official documentation](https://cloudnative-pg.io/docs/1.30/imagevolume_extensions))
+> - [cloudnative-pg/postgres-extensions-containers](https://github.com/cloudnative-pg/postgres-extensions-containers) for the official CloudNative PG container extensions
+> - [tripsolutions/postgresql-extensions-containers](https://github.com/tripsolutions/postgresql-extensions-containers) for simplified community-driven PostgreSQL extension container images
+
 This repository contains the dockerfiles and scripts as well as the github actions
 to extend the postgresql container images from [ghcr.io/cloudnative-pg/postgresql](https://github.com/cloudnative-pg/postgres-containers/).
 
